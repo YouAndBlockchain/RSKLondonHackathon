@@ -1,0 +1,1 @@
+java -cp rskj-core-0.6.1-ORCHID-all.jar co.rsk.Start --regtest
