@@ -12,7 +12,7 @@ Imagine a place in your home town where the garbage has been lying for a while n
 
 Simply, what you need to do is take a picture of it through our application on your phone, select the category as “Trash” and submit it.
 
-The meta data of the image, the Geo-location and date primarily, will be taken and stored through a smart contract while the image will we stored in the form of hash at a government database for archive purposes. 
+The meta data of the image, the Geo-location, ID user and date primarily, will be taken and stored through a smart contract while the image will we stored in the form of hash at a government database for archive purposes. 
 
 At this point, your task is done. 
 
