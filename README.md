@@ -1,4 +1,4 @@
-Our Platform (Cryptokindness)
+The Platform (Cryptokindness)
 
 Cryptokindness aims to bridge the gap between the people and the city (government) to help make the state (town) a cleaner and better place. 
 
